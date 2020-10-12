@@ -1,8 +1,8 @@
 # Page settings
 
-baseurl = "http://example.org/"
+baseurl = ""
 languageCode = "en-us"
-title = "John Doe Resume"
+title = "Daryl Galvez CV"
 theme = "hugo-orbit-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
@@ -15,7 +15,7 @@ disable404 = true
 
 # Meta
     description = "Hugo Responsive Resume/CV Theme for Developers"
-    author = "Pavel Kanyshev"
+    author = "Daryl Galvez"
 
 # Theme styles
 
@@ -24,15 +24,15 @@ disable404 = true
     # are available. Also the source LESS files are included so
     # it’s quick and easy to change the styling and colour scheme.
 
-    styles = "styles.css"
+    styles = "styles-6.css"
 
 # Sidebar sections
 
     # Profile section
     [params.profile]
-        name = "John Doe"
-        tagline = "Full Stack Developer"
-        avatar = "profile.png"
+        name = "Daryl Galvez"
+        tagline = "Software Developer/ Marine Engineer"
+        avatar = "avatar01.png"
 
     # Contact section
     [params.contact]
