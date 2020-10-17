@@ -162,7 +162,7 @@ disable404 = true
         position = "Marine Engineer"
         dates = "Oct 2012 - Jan 2020"
         company = "Maersk A/S"
-        details = "Served as marine engineer onboard Maersk Vessels. Started from lowest rank until reaching management level onboard. Responsiblel for the safe and efficient operation of the ship and it's propulsion, power generation, and auxiliary equipment and systems. Initiated operational improvements onboard which resulted in at least 3% savings annually and saved at least USD 8000 by implementing cost-saving initiatives and inventory management that addressed longstanding problems."
+        details = "Served as marine engineer onboard Maersk Vessels. Started from lowest rank until reaching management level onboard. Responsible for the safe and efficient operation of the ship and it's propulsion, power generation, and auxiliary equipment and systems. Initiated operational improvements onboard which resulted in at least 3% savings annually and saved at least USD 8000 by implementing cost-saving initiatives and inventory management that addressed longstanding problems."
 
     # Projects section
     [params.projects]
