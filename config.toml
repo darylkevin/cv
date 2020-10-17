@@ -138,7 +138,7 @@ disable404 = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "**Summarise your career here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu."
+        summary = "I am an aspiring software developer and IT professional. I came from a seafaring and engineering background and I hope to contribute my knowledge and experience from my previous work into a new role."
 
     # Experiences section
     [params.experiences]
@@ -147,54 +147,54 @@ disable404 = true
         title = "Experiences"
 
         [[params.jobs.list]]
-        position = "Lead Developer"
-        dates = "2015 - Present"
-        company = "Startup Hubs, San Francisco"
-        details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.\n\n Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+        position = "Recruitment Technical Officer"
+        dates = "Mar 2020 - Oct 2020"
+        company = "Maersk Filipinas Crewing Inc."
+        details = "Organized and monitored all technical aspects of seafarer recruitment and talent sourcing. Act as consultant with regards to applicants' technical screening, and promotion evaluation of exisiting crew."
 
         [[params.jobs.list]]
-        position = "Senior Software Engineer"
-        dates = "2014 - 2015"
-        company = "Google, London"
-        details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
+        position = "Technical Interviewer"
+        dates = "Jan 2020 - Mar 2020"
+        company = "Maersk Filipinas Crewing Inc."
+        details = "Screened applicants and conducted technical interviews to determine their fitness to serve onboard Maersk vessels. Handled both deck department and engine deparment applications."
 
         [[params.jobs.list]]
-        position = "UI Developer"
-        dates = "2012 - 2014"
-        company = "Amazon, London"
-        details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
+        position = "Marine Engineer"
+        dates = "Oct 2012 - Jan 2020"
+        company = "Maersk A/S"
+        details = "Served as marine engineer onboard Maersk Vessels. Started from lowest rank until reaching management level onboard. Responsiblel for the safe and efficient operation of the ship and it's propulsion, power generation, and auxiliary equipment and systems. Initiated operational improvements onboard which resulted in at least 3% savings annually and saved at least USD 8000 by implementing cost-saving initiatives and inventory management that addressed longstanding problems."
 
     # Projects section
     [params.projects]
         enable = true
         icon = "fa-archive"
         title = "Projects"
-        intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
+        # intro = "**These are some small projects that I have worked on** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
 
         [[params.projects.list]]
-        title = "Hugrid"
-        url = "https://github.com/aerohub/hugrid"
-        tagline = "Grid theme for Hugo. It's a kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on"
+        title = "Python Adventure Game"
+        url = "https://github.com/darylkevin/Python-Adventure-Game"
+        tagline = "Udacity Project: A simple text-based adventure game that you can run in a terminal. I am planning to make a GUI version soon."
 
         [[params.projects.list]]
-        title = "Simple FAQ Theme for Hugo"
-        url = "https://github.com/aerohub/hugo-faq-theme"
-        tagline = "Simple FAQ Theme for Hugo. You may use this theme for building very simple FAQs or note lists."
+        title = "Terminal Weather Forcaster"
+        url = "https://github.com/darylkevin/weather_api_project"
+        tagline = "My take on a lesson in Udacity's Python course. This uses an API which pulls weather forecasts on a specified city and displays the output in the terminal. A GUI version is in the works."
 
         [[params.projects.list]]
-        title = "Hugo Identity"
-        url = "https://github.com/aerohub/hugo-identity-theme"
-        tagline = "Little profile/card-style template for Hugo."
+        title = "Animal Trading Cards"
+        url = "https://github.com/darylkevin/Animal-Trading-Cards"
+        tagline = "Udacity Project: A simple webpage which displays my favorite animal in a 'trading card style' view."
 
         [[params.projects.list]]
-        title = "Orbit"
-        url = "https://github.com/aerohub/hugo-orbit-theme"
-        tagline = "Hugo Resume/CV Theme for Developers."
+        title = "Pixel Art Maker"
+        url = "https://github.com/darylkevin/Pixel-Art-Maker"
+        tagline = "Udacity Project: A simple pixel-art maker."
 
         [[params.projects.list]]
-        title = "Me"
-        url = "https://github.com/aerohub/hugo-me-theme"
-        tagline = "A simple responsive Hugo theme for personal site."
+        title = "Personal Website"
+        url = "https://darylgalvez.xyz"
+        tagline = "My personal website using markdown and Hugo."
 
     # Skills section
     [params.skills]
@@ -203,28 +203,28 @@ disable404 = true
         title = "Skills & Proficiency"
 
         [[params.skills.list]]
-        skill = "Python & Django"
-        level = "98%"
+        skill = "Python"
+        level = "70%"
 
         [[params.skills.list]]
-        skill = "Javascript & jQuery"
-        level = "98%"
+        skill = "Javascript"
+        level = "55%"
 
         [[params.skills.list]]
-        skill = "Angular"
-        level = "95%"
+        skill = "Git"
+        level = "85%"
 
         [[params.skills.list]]
         skill = "HTML5 & CSS"
-        level = "95%"
+        level = "85%"
 
         [[params.skills.list]]
-        skill = "Ruby on Rails"
+        skill = "Linux & *NIX"
         level = "75%"
 
         [[params.skills.list]]
-        skill = "Sketch & Photoshop"
-        level = "60%"
+        skill = "Terminal & Shells"
+        level = "70%"
 
     # Footer section
 
