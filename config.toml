@@ -124,7 +124,7 @@ disable404 = true
         interest = "Cycling and Running"
 
         [[params.interests.list]]
-        interest = "Freediving"
+        interest = "Free-diving"
 
         [[params.interests.list]]
         interest = "Tinkering"
@@ -156,7 +156,7 @@ disable404 = true
         position = "Technical Interviewer"
         dates = "Jan 2020 - Mar 2020"
         company = "Maersk Filipinas Crewing Inc."
-        details = "Screened applicants and conducted technical interviews to determine their fitness to serve onboard Maersk vessels. Handled both deck department and engine deparment applications."
+        details = "Screened applicants and conducted technical interviews to determine their fitness to serve onboard Maersk vessels. Handled both deck department and engine department applications."
 
         [[params.jobs.list]]
         position = "Marine Engineer"
@@ -207,7 +207,7 @@ disable404 = true
         level = "70%"
 
         [[params.skills.list]]
-        skill = "Javascript"
+        skill = "JavaScript"
         level = "55%"
 
         [[params.skills.list]]
